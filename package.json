@@ -1,0 +1,14 @@
+{
+    "author": "Nightwolf",
+    "version": "1.0",
+    "server_scripts": [
+        "json.lua",
+        "sv_discordcall.lua"
+    ],
+    "client_scripts": [
+
+    ],
+    "files": [
+
+    ]
+}
